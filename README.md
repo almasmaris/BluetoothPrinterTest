@@ -1,6 +1,4 @@
 
-Android app implement Bluetooth Connection. It show you how to Connect to Bluetooth thermal printer and print receipt.
-
 BluetoothPrinterTest
 ==============
 
